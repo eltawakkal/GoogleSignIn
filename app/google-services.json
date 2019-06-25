@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "59095173231",
+    "firebase_url": "https://chat-app-3f966.firebaseio.com",
+    "project_id": "chat-app-3f966",
+    "storage_bucket": "chat-app-3f966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59095173231:android:e194b259c3032e09",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59095173231-jv3ic00uotbvh8cktavgh56er2cn96rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogin",
+            "certificate_hash": "5006235faf9e04b322157c13e19f8082139db58d"
+          }
+        },
+        {
+          "client_id": "59095173231-3ficrsl6iu5t6b25fa4l222nm6lh86h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7kZxzSzuwGubASh446k0OwmzPn5eMXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59095173231-tr5vin1hl4oisgfk8q49q44ikukah95o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59095173231:android:14f433d85bd6591a",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59095173231-hcnknnfaqhmk4nh0f4ieosa2ejc5p59m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesignin",
+            "certificate_hash": "5006235faf9e04b322157c13e19f8082139db58d"
+          }
+        },
+        {
+          "client_id": "59095173231-3ficrsl6iu5t6b25fa4l222nm6lh86h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7kZxzSzuwGubASh446k0OwmzPn5eMXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59095173231-tr5vin1hl4oisgfk8q49q44ikukah95o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59095173231:android:6fa153bca8769c19",
+        "android_client_info": {
+          "package_name": "com.example.minichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59095173231-ks0k3b6sav19p7gl241imas3rdoos7qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minichat",
+            "certificate_hash": "babe3b2a4b97fff5c0f52d4a3f2f6f2ea5f3cbc3"
+          }
+        },
+        {
+          "client_id": "59095173231-3ficrsl6iu5t6b25fa4l222nm6lh86h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7kZxzSzuwGubASh446k0OwmzPn5eMXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59095173231-tr5vin1hl4oisgfk8q49q44ikukah95o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
